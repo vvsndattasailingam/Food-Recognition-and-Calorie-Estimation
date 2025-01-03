@@ -97,3 +97,5 @@ To set up the project environment, install the following dependencies:
 - Upload input files to Google Drive or your local directory.
 - Update paths in the notebook code to reflect the correct file locations.
 - Use high-resolution images for better accuracy.
+
+Feel free to contribute and enhance this project!
